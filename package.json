@@ -1,0 +1,21 @@
+{
+  "name": "curso",
+  "version": "1.0.0",
+  "description": "Usar google maps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js" 
+  },
+  "author": "GG",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3",
+    "jade": "^1.11.0",
+    "nodemon": "^1.11.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.6.0"
+  }
+}
